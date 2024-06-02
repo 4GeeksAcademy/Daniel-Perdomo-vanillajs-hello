@@ -8,6 +8,8 @@ import "./assets/img/4geeks.ico";
 window.onload = function() {
   //write your code here
   console.log("Hello Rigo from the console!");
+  let excuse = "My cat destroyed my parrot";
+  document.getElementById("excuse").innerHTML = excuse;
 };
 
 let who = ["The dog", "My grandma", "The mailman", "My bird"];
@@ -18,5 +20,5 @@ let when = [
   "when I was sleeping",
   "while I was exercising",
   "during my lunch",
-  "while I was praying"
+  "while I was praying",
 ];
