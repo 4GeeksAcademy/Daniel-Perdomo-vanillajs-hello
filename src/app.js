@@ -30,7 +30,7 @@ window.onload = function() {
     "while I was exercising",
     "during my lunch",
     "while I was praying",
-    "while playing the trombone",
+    "while playing the trombone"
   ];
   let whenPart = when[randomNumber(when.length - 1)];
 
